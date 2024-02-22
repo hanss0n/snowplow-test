@@ -1,0 +1,28 @@
+{
+   "schema":"iglu:com.snowplowanalytics.snowplow/payload_data/jsonschema/1-0-4",
+   "data":[
+      {
+         "e":"ue",
+         "eid":"4dc17c2f-2bb4-47ad-a2b6-158aaf04ad8f",
+         "tv":"js-3.21.0",
+         "tna":"sp",
+         "aid":"my-app-id",
+         "p":"web",
+         "cookie":"1",
+         "cs":"UTF-8",
+         "lang":"en-US",
+         "res":"2560x1440",
+         "cd":"24",
+         "dtm":"1708632323907",
+         "vp":"1456x1351",
+         "ds":"1456x1351",
+         "vid":"1",
+         "sid":"ffe5322f-26c4-4853-9d96-68f3aebe016c",
+         "duid":"33f63d7f-33f5-4df4-9a9f-0987eb2a7c2a",
+         "url":"http://localhost:5173/",
+         "ue_px":"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9saW5rX2NsaWNrL2pzb25zY2hlbWEvMS0wLTEiLCJkYXRhIjp7InRhcmdldFVybCI6Imh0dHBzOi8vc25vd3Bsb3cuaW8ifX19",
+         "cx":"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJlNjAxYzlmMC1lMTNjLTRjZDYtYmMwOS1iMTc2NWVjODQ4YmMifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy93ZWJfcGFnZS9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJpZCI6IjkyZTJmOWNhLTZjNDAtNDBiMi1hZjgyLTlkZDk4ODc0NTU2NyJ9fV19",
+         "stm":"1708632323907"
+      }
+   ]
+}
